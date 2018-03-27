@@ -1,0 +1,21 @@
+{
+  "name": "nodetodoapp",
+  "description": "simple crud app",
+  "main": "app.js",
+  "authors": [
+    "saifDev1642"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
